@@ -24,7 +24,7 @@ Data dictionary:
 
 Note: Due to format inconsistency in the PDF files, some questions were not extracted. If you need the content of the question, you should refer back to the PDF file. This issue happened to the oral questions. 
 
-Please also remember that only backbenchers can ask questions. Those in the government (state exco) were the ones answering the questions. If you want to do any comparision, this must be taken into account.
+Please remember that only backbenchers can ask questions. Those in the government (state exco) were the ones answering the questions. Due to the reshuffle of the state exco during Pakatan Harapan administration in 2019 and the change of government in 2020, many representatives were once backbenchers and exco members at different periods. If you want to do any comparision, this must be taken into account.
 
 You are free to use the data for whatever purposes but please kindly credit "Data extraction by Kuek Ser Kuang Keng". Check the license. 
 
