@@ -4,15 +4,23 @@ All the questions are extracted from the PDF files publicly available at the Joh
 
 Data dictionary:
 
-File: Name of the PDF file where the data is extracted.
-Start date: Starting date of the sitting.
-Sheraton: Before of after the collapse of Pakatan Harapan Johor state government in Feb 2020.
-Type: Written question (Soalan bertulis) or oral question (Soalan lisan).
-Num: Number of question as stated in the file.
-Rep-name-DUN: Name of the state assemblyperson who asked the question and the consituency represented.
-Rep-name: Name of the state assemblyperson who asked the question
-DUN: Name of the consituency
-Question: Content of the question
+1. File: Name of the PDF file where the data is extracted.
+
+2. Start date: Starting date of the sitting.
+
+3. Sheraton: Before of after the collapse of Pakatan Harapan Johor state government in Feb 2020.
+
+4. Type: Written question (Soalan bertulis) or oral question (Soalan lisan).
+
+5. Num: Number of question as stated in the file.
+
+6. Rep-name-DUN: Name of the state assemblyperson who asked the question and the consituency represented.
+
+7. Rep-name: Name of the state assemblyperson who asked the question
+
+8. DUN: Name of the consituency
+
+9. Question: Content of the question
 
 Note: Due to format inconsistency in the PDF files, some questions were not extracted. If you need the content of the question, you should refer back to the PDF file. This issue happened to the oral questions.
 
